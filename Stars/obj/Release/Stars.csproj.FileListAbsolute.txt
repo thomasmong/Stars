@@ -1,0 +1,15 @@
+D:\projets_c#\Stars\Stars\bin\Release\Stars.exe.config
+D:\projets_c#\Stars\Stars\bin\Release\Stars.exe
+D:\projets_c#\Stars\Stars\bin\Release\Stars.pdb
+D:\projets_c#\Stars\Stars\obj\Release\MainWindow.g.cs
+D:\projets_c#\Stars\Stars\obj\Release\App.g.cs
+D:\projets_c#\Stars\Stars\obj\Release\Stars_MarkupCompile.cache
+D:\projets_c#\Stars\Stars\obj\Release\Stars_MarkupCompile.lref
+D:\projets_c#\Stars\Stars\obj\Release\MainWindow.baml
+D:\projets_c#\Stars\Stars\obj\Release\Stars.g.resources
+D:\projets_c#\Stars\Stars\obj\Release\Stars.Properties.Resources.resources
+D:\projets_c#\Stars\Stars\obj\Release\Stars.csproj.GenerateResource.cache
+D:\projets_c#\Stars\Stars\obj\Release\Stars.csproj.CoreCompileInputs.cache
+D:\projets_c#\Stars\Stars\obj\Release\Stars.exe
+D:\projets_c#\Stars\Stars\obj\Release\Stars.pdb
+D:\projets_c#\Stars\Stars\obj\Release\Stars.csprojAssemblyReference.cache
